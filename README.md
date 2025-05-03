@@ -1,1 +1,1 @@
-задача №n - servern.cpp + clientn.cpp
+задача n = servern.cpp + clientn.cpp
