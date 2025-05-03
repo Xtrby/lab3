@@ -1,1 +1,1 @@
-задача №n - servern.cpp + clientncpp
+задача №n - servern.cpp + clientn.cpp
